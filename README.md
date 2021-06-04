@@ -1,11 +1,11 @@
-# pacman
+#pacman
 this is a pacman game .
-# Y -> our hero
-# G -> ghosts
-# P -> pills
-#. -> empty spaces
-# | and - -> walls
-# Q -> ghosts on pills
+Y -> our hero
+G -> ghosts
+P -> pills
+. -> empty spaces
+| and - -> walls
+Q -> ghosts on pills
 ghosts and hero can't go on walls.
 ghosts can't eat pills.
 every 10 seconds pills removed and new pills in new places created.
