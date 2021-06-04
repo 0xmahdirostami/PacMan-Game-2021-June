@@ -13,3 +13,8 @@ this game has two levels which in easy one ghost move randomly and in normal one
 you must pick pills, pills are your score.
 if ghosts hit you, you die and the game finish.
 if you press "Esc" game finish.
+twitter :https://twitter.com/maahdiro
+youtube channle:https://www.youtube.com/channel/UC9RUFeRcabHOJa5QHq_xyYA
+youtube :maahdiro
+email :rostamimahdi1997@gmail.com
+linkein :https://www.linkedin.com/in/mahdi-rostami-7b0582202
