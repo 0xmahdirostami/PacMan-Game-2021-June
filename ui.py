@@ -23,10 +23,10 @@ def ui_shap(shape):
 
 def ui_msg_lost(pill,time):
     print("Pacman died!")
-    print("your pills are",pill,"and your time is",time,"your score is:",int(pill*time),"please press Esc")
+    print("your pills are",pill,"and your time is",time)
 def ui_msg_win(pill,time):
     print("You won the game!")
-    print("your pills are", pill,"and your time is",time,"your score is:",int(pill*time), "please press Esc")
+    print("your pills are", pill,"and your time is",time)
 def ui_msg_hit(pill,time):
     print("Pacman hited!")
-    print("your pills are", pill,"and your time is",time,"your score is:",int(pill*time), "please press Esc")
+    print("your pills are", pill,"and your time is",time)
