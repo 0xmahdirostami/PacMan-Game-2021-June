@@ -1,6 +1,6 @@
 #pacman
 this is a pacman game .
-Y -> our hero
+@ -> our hero
 G -> ghosts
 P -> pills
 . -> empty spaces
